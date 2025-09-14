@@ -1,227 +1,193 @@
-# The Ruby Buyer’s Field Guide
+# Fiery Heart: A Veteran’s Guide to Buying a Ruby
 
-Rubies aren’t “red diamonds.” They’re their own universe—rarer at the top, less standardized, easier to get wrong, unforgettable when you get it right.
+Rubies aren’t a casual stroll; they’re a quest. Get the compass right—color first, then crystal life, cut that serves the red, carat reality, treatments in plain English—and you’ll avoid tuition mistakes and land a stone that actually earns its price.
 
-**Abstract.** This guide is the compass: how to judge color, read crystal life, understand cuts that serve the red, price carat thresholds, navigate treatments, weigh origin without mythology, spot synthetics and impostors, and leave a paperwork trail that protects your deal and your client.
+**Abstract.** Ruby (red corundum) has carried meaning for millennia, and today the market for fine stones is thin and competitive. This guide translates veteran heuristics into a clean workflow: judge color like a pro, expect inclusions without fearing them, understand cuts that wake the red, price carat thresholds rationally, navigate treatments (from heat to diffusion to glass-filled composites), balance origin romance with reality, separate synthetics and impostors from natural, and run a paperwork trail that protects both client and dealer.
 
 ## Table of Contents
 - [Overview](#overview)
 - [Key Insights](#key-insights)
-  - [Color: The Monarch](#color-the-monarch)
-  - [Clarity: Imperfection Expected](#clarity-imperfection-expected)
-  - [Cut: Waking the Red](#cut-waking-the-red)
-  - [Carat: Size, Weight, and Rarity](#carat-size-weight-and-rarity)
-  - [Treatment Triage](#treatment-triage)
-  - [Origin: Romance vs Reality](#origin-romance-vs-reality)
+  - [Color: The Absolute Monarch](#color-the-absolute-monarch)
+  - [Clarity: Imperfection Is Expected](#clarity-imperfection-is-expected)
+  - [Cut: Maximizing the Heart of Red](#cut-maximizing-the-heart-of-red)
+  - [Carat Weight: The Rarity Premium](#carat-weight-the-rarity-premium)
+  - [Treatment: The Unavoidable Truth](#treatment-the-unavoidable-truth)
+  - [Origin: Romance Versus Reality](#origin-romance-versus-reality)
   - [Synthetics & Impostors](#synthetics--impostors)
   - [Tensions & Takeaways](#tensions--takeaways)
 - [Dealer Playbook](#dealer-playbook)
+  - [Buying Smart: Your Checklist](#buying-smart-your-checklist)
 - [Red Flags & Fast Tests](#red-flags--fast-tests)
 - [FAQs](#faqs)
-- [Implementation Notes](#implementation-notes)
+- [Implementation Notes (SOP)](#implementation-notes-sop)
 - [Mind Map (Mermaid)](#mind-map-mermaid)
 - [License](#license)
 
 ---
 
-<details><summary><b>TL;DR</b></summary>
-
-- Judge color first: vivid red, balanced tone, saturation that doesn’t go black in dim light.  
-- Inclusions are normal; “alive” crystal beats laboratory cleanliness.  
-- Cut shapes color—good make evens the red and avoids windows/extinction.  
-- Heat = common; diffusion/glass-filled = different value class; disclose in writing.  
-- Origin adds story; quality pays. Regulations and preferences change—price the gem, not the passport.  
-- Paper protects: lab report for meaningful buys, treatment notes on the invoice, photos in multiple lights.
-
-</details>
-
----
-
 ## Overview
 
-Rubies punish casual buyers and reward disciplined eyes. The top is thin: fine pieces over one carat are scarce, and prices climb steeply at thresholds. The middle is noisy: treatments, origin claims, and copywritten adjectives outnumber true contenders. Your edge is a repeatable way to see color, read make, test assumptions, and document what you sell.
+Rubies command prices that make white diamonds blush when the fundamentals align. The top of the market is razor-thin; truly fine stones are geologic accidents, not catalog items. History and symbolism add heat, but your edge is practical: see color accurately, accept natural inclusions without letting them kill life, evaluate make through the lens of color, respect carat thresholds, and handle treatments and origin claims with candor.
 
 ## Key Insights
 
-### Color: The Monarch
-The hierarchy is simple: **hue → saturation → tone → stability across lighting**.
+### Color: The Absolute Monarch
+Color carries the value. Prioritize **hue → saturation → tone → stability across lighting**.
 
-- **Hue:** Aim for a pure, rich red. Slight purplish can be charming; too orangy or too magenta degrades desirability.  
-- **Saturation:** Strong, not syrupy. If saturation relies on room darkness, the stone will die on a hand in daylight.  
-- **Tone:** Balanced. Too dark = “off” or black; too light = pink sapphire territory in many markets.  
-- **Lighting stability:** Great rubies stay red in mixed environments, not just under a showcase spotlight.
+- **Hue lane.** Aim for a pure, vibrant red. A slight purplish modifier is fine and often desirable in trade language (the so-called “pigeon’s blood” lane). Too orangy or too magenta pushes price down.  
+- **Saturation.** Vivid, not syrupy. Over-saturated stones that go blackish under modest light won’t delight on the hand.  
+- **Tone.** Balanced. Too light drifts toward pink sapphire territory; too dark reads somber or closes up.  
+- **Lighting stability.** Great rubies stay convincingly red in different environments, not just under a showcase spotlight.
 
-**Eye test:** Step back two meters, tilt the stone, change lights. If the red collapses, so will your client’s enthusiasm.
+**Origin vs color.** Revered sources are known for strong red, but every deposit produces a spectrum. You can find exceptional color from multiple regions—and mediocre stones from famous ones.
 
-### Clarity: Imperfection Expected
-Eye-clean rubies exist; they are unicorns. Expect needles, crystals, and fingerprints. You’re looking for **transparency and life**, not sterility.
+**Ruby vs sapphire.** Same mineral (corundum). In many markets, a ruby must be unequivocally **red**; paler material is sold as pink sapphire.
 
-- **Acceptable:** minor features that don’t break transparency or threaten durability; inclusions that add character without dulling the stone.  
-- **Unacceptable:** dense clouds, fractures that gray the body, or issues that risk durability.
+### Clarity: Imperfection Is Expected
+Unlike diamonds, rubies are **not** graded for perfection. Inclusions are normal and often diagnostic.
 
-Remember: pastel-leaning stones are less forgiving—every flaw reads louder. Richer tones tolerate more, provided the crystal stays lively.
+- **What’s acceptable:** fine needles, crystals, fingerprint textures that don’t gray out the body or threaten durability.  
+- **What’s not:** dense clouds that kill transparency, prominent fractures that dull brilliance or risk chips.  
+- **Context matters:** lighter-toned stones reveal flaws more readily; richer stones can carry more if the crystal remains lively.
 
-### Cut: Waking the Red
-Rubies are cut to serve color. Tabular rough and zoning force compromises.
+Eye-clean rubies exist—but at scale and price tiers that match their rarity. “Too clean” at a “too kind” price deserves scrutiny.
 
-- **Good make:** balanced crown/pavilion, minimal windowing, no dead belly. The stone looks “awake” at face-up, not only at one angle.  
-- **Trade-off:** you’ll accept a little less brilliance if the cut evens color and prevents black-outs.  
-- **Profiles:** ovals, cushions, and antique-style mixed cuts often flatter color; rounds/brilliants are rarer because rough fights symmetry.
+### Cut: Maximizing the Heart of Red
+Rubies are cut to **serve color**. Tabular hexagonal rough and color zoning force choices.
 
-**Quick read:** if the color gathers and dies across the face, you’re seeing zoning + poor make. Price accordingly—or pass.
+- **Good make** favors even color face-up, minimal windowing, controlled extinction, and a silhouette that flatters the stone (ovals/cushions are common; rounds are rarer).  
+- **Trade-off:** a cutter may sacrifice some brilliance to improve color uniformity. That’s acceptable if the stone looks alive in honest light.  
+- **Judge personality:** does the stone have dead patches or a “black belly”? If yes, price accordingly or pass.
 
-### Carat: Size, Weight, and Rarity
-- **Rarity premium:** quality jumps fast after 1 ct; elite at 3–5 ct becomes genuinely scarce.  
-- **Weight vs size:** corundum is denser than diamond—a 1 ct ruby faces up smaller than a 1 ct diamond. Ask for **millimeter** measurements, not weight alone.  
-- **Thresholds:** expect per-carat step-ups at round numbers (1.0, 2.0, 3.0…) when quality is there. Don’t pay a threshold premium for mediocre color/make.
+### Carat Weight: The Rarity Premium
+Rarity spikes hard with size when quality holds.
 
-### Treatment Triage
-Assume enhancement until proven otherwise—and write it down.
+- **Thresholds:** expect steep per-carat steps as you cross 1 ct, 2 ct, 3 ct… provided color and life justify it.  
+- **Density reality:** corundum is denser than diamond; a 1 ct ruby **faces up smaller** than a 1 ct diamond with similar shapes. Always get **millimeter** dimensions.  
+- **Dream sizes:** a fine 5 ct ruby is a showstopper by definition—price moves accordingly.
 
-- **Heat treatment:** Common, accepted, typically stable. Price reflects it. A well-documented lack of heat earns a meaningful premium for fine stones.  
-- **Diffusion (color additives with heat):** Surface/near-surface color. Value tier below simple heat; repolish can remove effect. Requires clear disclosure.  
-- **Glass-filled/composites:** Ruby fragments bonded with glass. Pretty at first glance, but low durability and very low value. Treat as fashion goods with strict disclosure, not heirlooms.
+### Treatment: The Unavoidable Truth
+Assume treatment until proven otherwise—and disclose in writing.
 
-**Care notes:** standard heat-treated stones tolerate routine bench work; filled/diffused stones do not—avoid ultrasonic/steam/harsh solvents. Put care guidance on the receipt.
+- **Heat treatment.** Common, accepted, aimed at improving color/clarity. Considered stable; pricing generally assumes it. A well-documented absence of heat earns a real premium **only when** the stone is beautiful.  
+- **Diffusion with additives.** Color introduced near the surface under heat. Value tier well below simple heat; shallow color can be abraded in re-polish. Requires explicit disclosure and conservative pricing.  
+- **Glass-filled composites.** Ruby fragments bonded with lead glass. Attractive at first glance, but fragile and low-value. Treat as decorative fashion goods with strict disclosure, not heirloom purchases.
 
-### Origin: Romance vs Reality
-Origin can add poetry and, sometimes, price tension. But:
+**Care impacts:** standard heat-treated stones usually tolerate bench cleaning better; filled/diffused stones often **do not**. When in doubt, default to warm soapy water and a soft cloth—avoid ultrasonic, steam, and harsh chemicals for any filled or dyed material.
 
-- **Quality rules:** a mediocre stone from a storied source is still mediocre.  
-- **Preferences vary:** different markets prize different origins and enhancement profiles.  
-- **Regulatory climates shift:** import rules and trade preferences change. **Practical takeaway:** sell the gem in front of you and stay current locally.
+### Origin: Romance Versus Reality
+Origin can add poetry and sometimes premium, but **quality pays the bill**.
 
-Use cautious language on paperwork: indicators “consistent with” a region when supported—avoid absolutes you can’t defend.
+- Famous locales earned their reputations for a reason—but every source spans quality.  
+- Regulations and trade preferences can affect certain origins; rules change over time. **Practical takeaway:** verify what applies in your market before you promise anything.  
+- Evaluate the gem in front of you first: color, life, make, then let origin support—not replace—your valuation.
 
 ### Synthetics & Impostors
-- **Lab-grown corundum (“created” ruby):** same chemistry, different birth. Beautiful, honest option when disclosed; not a substitute for natural.  
-- **Impostors:** red spinel, garnet, tourmaline, and glass. Each has merit—none is ruby.  
-- **Bench tells (first pass):** unnatural perfection at a miracle price; suspiciously even color with curved growth; bubble strings in glass. Always confirm with a proper report when money matters.
+Know the lanes.
+
+- **Synthetic (created) ruby:** same chemistry/crystal structure as natural, grown in a lab. Modern material is convincing and requires proper testing. Beautiful when disclosed; **not** a substitute for natural in value.  
+- **Impostors:** red glass, spinel, garnet, tourmaline—each with its own merit but **not** ruby. Prices should reflect that.
+
+Suspiciously low pricing is its own test: if the story and the math disagree, believe the math.
 
 ### Tensions & Takeaways
-- **“No heat” romance vs reality:** worth a premium only when the stone is beautiful. Paper alone is not beauty.  
-- **Origin premiums vs market liquidity:** premiums exist but narrow quickly when color or make disappoints.  
-- **Clarity fetish vs life:** don’t overpay for sterile; pay for lively red.  
-- **Auction headlines vs your case:** records inspire; they don’t appraise your inventory.
+- **“No heat” romance vs beauty.** Paper without beauty is still tuition.  
+- **Origin premium vs liquidity.** Premiums narrow fast when color/make disappoint.  
+- **Clarity fetish vs life.** Lively crystal with honest inclusions beats sterile but sleepy.  
+- **Auction headlines vs daily deals.** Records inspire; they don’t appraise your inventory.
 
 ## Dealer Playbook
 
-**Sourcing Filters**
-1. Color lane first (hue/saturation/tone); test in multiple lights.  
-2. Crystal life second—does it stay awake at arm’s length?  
-3. Cut that serves color—no windows, no deep extinction.  
-4. Durability check—avoid fractures at critical prongs/edges.  
-5. Treatment expectations—assume heat; investigate beyond when price implies.  
-6. Paper path—line up the right independent report for meaningful buys.
-
-**Pricing Framework**
-- Price the **piece**, not a fantasy origin or adjective.  
-- Keep separate lanes:  
-  - **Collector-grade:** elite color, life, make; documented treatment status.  
-  - **Fine wearable:** strong color, honest make, sensible enhancements.  
-  - **Decorative/entry:** charming stones with compromises—priced accordingly.  
-- Don’t pay threshold premiums (2 ct, 3 ct) unless color and life deserve it.
-
-**Sales Positioning & Scripts**
-- *10-second story:* “Vivid red, balanced tone, lively crystal; cut keeps color even across the face.”  
-- *Treatment line:* “Heat is common and disclosed here; this is priced accordingly. We put care notes on your invoice.”  
-- *Origin line:* “The quality you see is why it’s priced as it is; paperwork supports the story.”  
-- *Risk line:* “We include independent reporting on significant acquisitions.”
-
-**Care & After-Sale**
-- Give a one-page care card tailored to the treatment profile.  
-- Offer periodic checkups (prongs, cleaning) under controlled conditions.
+### Buying Smart: Your Checklist
+1. **Work with a trusted jeweler.** Look for real gemological chops and side-by-side comparisons; insist on plain-English explanations.  
+2. **Demand a lab report for meaningful buys.** Independent reporting confirms natural vs synthetic, notes detectable treatments, and may opine on origin. Reports support decisions; they don’t replace your eyes.  
+3. **Ask pointed questions.** Exact carat weight **and** millimeter dimensions, color description, and **all treatments**—written on the bill of sale.  
+4. **Examine in multiple lights.** Check color stability, zoning, liveliness, and transparency. If it only sings under the showcase, keep testing.  
+5. **Beware “bargains.”** A flawless “ruby” at a giveaway price is usually synthetic, highly treated, or not ruby at all.
 
 ## Red Flags & Fast Tests
-- **Too-clean at too-low a price.** Natural + unicorn clarity + bargain rarely coexist.  
-- **Neon photos, dead in daylight.** Overprocessed images, disappointing in hand.  
-- **Curved growth or bubble strings.** Think synthetic or glass.  
-- **Color collapse in office light.** If it can’t stay red off the showcase, don’t expect client love.  
-- **Origin claims without a path.** If the story is loud and the evidence is quiet, step back.  
-- **“No treatment” with a price that ignores reality.** Verify before you vouch.
+- **Too clean, too cheap.** Natural + unicorn clarity + bargain rarely coexist.  
+- **Color collapses in office/daylight.** Over-dependent on spotlighting.  
+- **Windowing/extinction.** Obvious see-through centers or dead, black areas across the face.  
+- **Diffusion tells.** Color concentrated at surface or facet junctions; shallow color risk on re-polish.  
+- **Glass-filled cues.** Bubble strings, glassy flashes, overly “repaired” fracture networks.  
+- **Paper mismatch.** Grand claims with vague documentation; push for an independent report.
 
-*(Fast tests are triage, not verdicts. Escalate when the dollars justify it.)*
+*(Fast tests are triage, not verdicts. Escalate when dollars justify.)*
 
 ## FAQs
 
 **Q: What matters most—color, clarity, or origin?**  
-Color and life first, then make and durability, then everything else. Origin can add premium; it doesn’t rescue mediocre color.
+Color and life first, then cut that supports them, then everything else. Origin can add premium; it can’t rescue mediocre color.
 
 **Q: Is heat treatment “bad”?**  
-No. It’s normal and priced-in. What’s bad is undisclosed or misrepresented treatment. Diffusion and glass-filled sit in different value tiers—disclose and discount.
+No. It’s common and priced-in. Undisclosed or misrepresented treatment is bad. Diffusion and glass-filled composites sit in different, lower value tiers—disclose and discount.
 
-**Q: Why does my 1 ct ruby look smaller than my 1 ct diamond?**  
-Corundum is denser than diamond. Use millimeter dimensions when matching settings.
+**Q: Why does a 1 ct ruby look smaller than a 1 ct diamond?**  
+Density. Corundum weighs more by volume, so it faces up smaller. Always request millimeter measurements for setting fits.
 
-**Q: Should I pay more for “no heat”?**  
-Yes—if the stone is beautiful. Paper without beauty is tuition, not value.
+**Q: Should I pay more for “no evidence of heat”?**  
+Yes—**if** the stone is beautiful. The premium follows beauty plus rarity, not a report alone.
 
-**Q: Lab-grown vs natural?**  
-Created rubies are gorgeous and affordable when disclosed; naturals are scarce and priced for that scarcity. Different lanes, different buyers.
+**Q: How do I separate natural from lab-grown or impostors?**  
+Start with price sanity and visual cues; confirm with independent reporting on meaningful buys. Modern synthetics can fool experienced eyes without tools.
 
-**Q: Do I need a lab report?**  
-For significant purchases, yes. It confirms natural vs synthetic, detects common treatments, and may opine on origin. It’s part of the defense file.
+**Q: Care guidelines?**  
+For filled/diffused stones: avoid ultrasonic, steam, and aggressive chemicals. When uncertain, warm soapy water and a soft brush. For routine bench work, confirm treatment sensitivity **before** cleaning or heat.
 
-## Implementation Notes
+## Implementation Notes (SOP)
 
-**A. Intake SOP**
-1) Photograph in balanced light (no heavy filters).  
-2) Record color (hue lane, saturation, tone) + crystal behavior in two lighting environments.  
-3) Inspect under magnification; note features and any durability concerns.  
-4) Draft treatment expectation and plan reporting as needed.  
-5) Price within lanes; write the rationale.  
-6) Prepare invoice language: treatment disclosure + care notes.
+**Intake & Evaluation**
+1) Photograph in balanced light (no heavy filters), front/back/angles.  
+2) Note color (hue lane, saturation, tone) and behavior in two light environments.  
+3) Magnification: map inclusions, transparency, and durability risks (edges/prongs).  
+4) Treatment expectation: assume heat; look for diffusion/glass-filled cues; plan reporting as needed.  
+5) Record **mm** dimensions; match to setting requirements.  
+6) Price within lanes (collector/fine wearable/decorative) with rationale written.
 
-**B. Invoice Language (templates)**
-- *“Natural ruby. Evidence consistent with [heat/no evidence of heat/diffusion/glass-filled]. Care: avoid ultrasonic/steam/harsh solvents if filled or diffusion-treated.”*  
-- *“Independent report recommended/included for full assessment.”*
+**Invoice & Disclosure Language (templates)**
+- *“Natural ruby. Evidence consistent with [heat / no evidence of heat / diffusion / glass-filled composite]. Treatments disclosed for trade clarity. Care: avoid ultrasonic/steam/harsh chemicals for filled or diffusion-treated stones.”*  
+- *“Independent laboratory report [recommended/included] for comprehensive assessment.”*
 
-**C. Photo & Listing Checklist**
-- True-to-life images + scale reference.  
-- Plain-English story: color, life, make.  
-- Treatment line and care note.  
-- Lane tag (collector/fine wearable/entry).
+**Care & After-Sale**
+- Provide a one-page care sheet matched to treatment profile.  
+- Offer periodic checkups (prongs, cleaning) using controlled methods.
 
-**D. Bench Guidance**
-- Confirm treatment sensitivity before any heat, ultrasonic, or chemical work.  
-- Protect edges/prongs; rubies chip if mishandled despite hardness.
-
-**E. Training Rhythm**
-- Weekly 10-minute “ruby rep”: compare two stones in mixed light; write a one-sentence positioning line.  
-- Monthly: review a report and align language on invoices.
+**Regulatory Note**
+- Certain origins may be subject to trade or import restrictions in some jurisdictions; regulations change. Verify current rules before making promises tied to origin.
 
 ## Mind Map (Mermaid)
 
 ```mermaid
 mindmap
-  root((Ruby Buyer’s Guide))
+  root((Ruby Buying Guide))
     Color
-      Hue
-      Saturation
-      Tone
+      Hue lane (pure red)
+      Vivid saturation
+      Balanced tone
       Lighting stability
     Clarity
-      Transparency
-      Durability checks
+      Expected inclusions
+      Transparency & durability
     Cut
-      Avoid windows
-      Control extinction
-      Serve color
+      Even color face-up
+      Control windowing/extinction
+      Serve the red
     Carat
       Threshold premiums
       mm over ct
     Treatments
-      Heat (common)
-      Diffusion (surface)
-      Glass-filled (composites)
-      Care notes
+      Heat (accepted)
+      Diffusion (surface risk)
+      Glass-filled (low value)
+      Care implications
     Origin
       Quality first
-      Shifting preferences
+      Rules can change
     Synthetics/Impostors
       Created corundum
-      Spinel/garnet/glass
+      Glass/spinel/garnet/tourmaline
     Operations
       Reports
       Invoice wording
-      Photo honesty
+      Intake photos & notes
